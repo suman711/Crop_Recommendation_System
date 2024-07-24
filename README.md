@@ -13,11 +13,11 @@ Crop Recommendation: Based on the trained models, the system recommends the most
 User-Friendly Interface: The system provides a user-friendly interface where users can easily input their data, view recommendations and explore additional information.
 
 # Technologies Used
-Python: Programming language used for model development, data preprocessing and web application development.
-Scikit-learn: Machine learning library used for model training, evaluation and prediction.
-Pandas: Data manipulation library used for data preprocessing and analysis.
-NumPy: Library for numerical computing used for handling arrays and mathematical operations.
-Flask: Web framework used for building the user interface and handling HTTP requests.
-HTML/CSS: Markup and styling languages used for designing the web interface.
-Bootstrap: Front-end framework used for designing a responsive and visually appealing web interface, providing pre-designed components and styles to enhance user experience.
+- Python: Programming language used for model development, data preprocessing and web application development.
+- Scikit-learn: Machine learning library used for model training, evaluation and prediction.
+- Pandas: Data manipulation library used for data preprocessing and analysis.
+- NumPy: Library for numerical computing used for handling arrays and mathematical operations.
+- Flask: Web framework used for building the user interface and handling HTTP requests.
+- HTML/CSS: Markup and styling languages used for designing the web interface.
+- Bootstrap: Front-end framework used for designing a responsive and visually appealing web interface, providing pre-designed components and styles to enhance user experience.
 
