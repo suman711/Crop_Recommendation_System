@@ -14,7 +14,6 @@ User-Friendly Interface: The system provides a user-friendly interface where use
 
 # Technologies Used
 Python: Programming language used for model development, data preprocessing and web application development.
-
 Scikit-learn: Machine learning library used for model training, evaluation and prediction.
 Pandas: Data manipulation library used for data preprocessing and analysis.
 NumPy: Library for numerical computing used for handling arrays and mathematical operations.
